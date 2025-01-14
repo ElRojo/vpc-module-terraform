@@ -1,9 +1,15 @@
 # VPC-Module-Terraform
 
-This repository is a challenge I gave myself to convert the manually-created AWS resources from this video from [Free Code Camp](https://www.freeCodeCamp.org)
+This repository is a challenge I gave myself to convert the manually-created AWS resources from this video into IaC.
+
+[Free Code Camp](https://www.freeCodeCamp.org)
 <br >
 
+<center>
+
 [![Free Code Camp YouTube Video Link](https://img.youtube.com/vi/g2JOHLHh4rI/0.jpg)](https://www.youtube.com/watch?v=g2JOHLHh4rI)
+
+</center>
 
 I have used Pulumi in the past and wanted to get more familiar with HCL.
 
